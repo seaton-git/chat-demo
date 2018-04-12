@@ -1,0 +1,15 @@
+{
+  "name": "chat",
+  "version": "0.0.1",
+  "description": "chat",
+  "main": "index.js",
+  "dependencies": {
+    "ws": "^5.1.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "seaton",
+  "license": "MIT"
+}
